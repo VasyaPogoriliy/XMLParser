@@ -1,0 +1,100 @@
+<?xml version = "1.0" encoding="windows-1251" ?>
+<Scientists>
+    <Scientist>
+        <Name>Мацкевич Юрій Вячеславович</Name>
+        <Faculty>ФКНК</Faculty>
+        <Department>ТК</Department>>
+        <Position>Асистент</Position>
+        <Salary>6500</Salary>
+        <TimeInOffice>2</TimeInOffice>
+    </Scientist>
+    <Scientist>
+        <Name>Карпенко Володимир Віталійович</Name>
+        <Faculty>ФКНК</Faculty>
+        <Department>МІ</Department>
+        <Position>Доцент</Position>
+        <Salary>8000</Salary>
+        <TimeInOffice>7</TimeInOffice>
+    </Scientist>
+    <Scientist>
+        <Name>Бішир Денис Дем'янович</Name>
+        <Faculty>ФКНК</Faculty>
+        <Department>ТК</Department>
+        <Position>Викладач</Position>
+        <Salary>6500</Salary>
+        <TimeInOffice>5</TimeInOffice>
+    </Scientist>
+    <Scientist>
+        <Name>Погорілий Василь Володимирович</Name>
+        <Faculty>ФКНК</Faculty>
+        <Department>ТТП</Department>
+        <Position>Професор</Position>
+        <Salary>8500</Salary>
+        <TimeInOffice>10</TimeInOffice>
+    </Scientist>
+    <Scientist>
+        <Name>Полозун Денис Олександрович</Name>
+        <Faculty>ФІТ</Faculty>
+        <Department>ТУ</Department>
+        <Position>Асистент</Position>
+        <Salary>6500</Salary>
+        <TimeInOffice>1</TimeInOffice>
+    </Scientist>
+    <Scientist>
+        <Name>Сідоров Євгеній Денисович</Name>
+        <Faculty>ФІТ</Faculty>
+        <Department>ПІС</Department>
+        <Position>Доцент</Position>
+        <Salary>8000</Salary>
+        <TimeInOffice>6</TimeInOffice>
+    </Scientist>
+    <Scientist>
+        <Name>Кобзар Ярослав Васильович</Name>
+        <Faculty>ФІТ</Faculty>
+        <Department>КН</Department>
+        <Position>Викладач</Position>
+        <Salary>6500</Salary>
+        <TimeInOffice>5</TimeInOffice>
+    </Scientist>
+    <Scientist>
+        <Name>Демидась Віталій Валерійович</Name>
+        <Faculty>ФІТ</Faculty>
+        <Department>КН</Department>
+        <Position>Професор</Position>
+        <Salary>8500</Salary>
+        <TimeInOffice>9</TimeInOffice>
+    </Scientist>
+    <Scientist>
+        <Name>Слюсаренко Андрій Сергійович</Name>
+        <Faculty>ФІОТ</Faculty>
+        <Department>ОТ</Department>
+        <Position>Асистент</Position>
+        <Salary>6500</Salary>
+        <TimeInOffice>3</TimeInOffice>
+    </Scientist>
+    <Scientist>
+        <Name>Юдкевич Дмитро Генадійович</Name>
+        <Faculty>ФІОТ</Faculty>
+        <Department>АУТС</Department>
+        <Position>Доцент</Position>
+        <Salary>8000</Salary>
+        <TimeInOffice>7</TimeInOffice>
+    </Scientist>
+    <Scientist>
+        <Name>Горбань Владислав Васильович</Name>
+        <Faculty>ФІОТ</Faculty>
+        <Department>ОТ</Department>
+        <Position>Викладач</Position>
+        <Salary>6500</Salary>
+        <TimeInOffice>4</TimeInOffice>
+    </Scientist>
+    <Scientist>
+        <Name>Гончарук Вадим Леонідович</Name>
+        <Faculty>OTКМ</Faculty>
+        <Department>ТТП</Department>
+        <Position>Професор</Position>
+        <Salary>8500</Salary>
+        <TimeInOffice>14</TimeInOffice>
+    </Scientist>
+</Scientists>
+
